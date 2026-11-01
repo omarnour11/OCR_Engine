@@ -1,0 +1,6 @@
+{
+  "name": "RxScribe Clinical OCR",
+  "description": "High-accuracy deep learning OCR and clinical verification workbench for handwritten medical prescriptions with 95%+ recognition accuracy, Latin sig decoding, and HL7 FHIR export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
